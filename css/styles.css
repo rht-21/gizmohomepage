@@ -1,0 +1,93 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navig {
+    padding: 5px 5px 3px 5px;
+    font-size: 1.05rem;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+    color: burlywood;
+}
+
+.navbar-brand:hover {
+    transform: scale(1.15);
+}
+
+#features {
+    text-align: center;
+    color: whitesmoke;
+    opacity: 75%;
+
+}
+
+.btn1 {
+    height: 180px;
+    width: 180px;
+    margin: 50px;
+    border-radius: 100%;
+}
+
+.btn1:hover {
+    transform: scale(1.15);
+    color: skyblue;
+    background-color: darkslateblue;
+}
+
+.btn2 {
+    height: 50px;
+    width: 150px;
+    margin: 200px;
+}
+
+.copyright {
+    color: antiquewhite;
+    text-align: right;
+    margin: 10px;
+    opacity: 70%;
+    word-spacing: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.footimg {
+    color: bisque;
+    display: inline;
+}
+
+#footer {
+    padding: 3% 5%;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Montserrat', serif;
+    font-size: 2rem;
+    color: antiquewhite;
+}
+
+h2{
+    font-size: 1rem;
+    color: antiquewhite;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+.contact-button {
+    display: inline;
+    color: antiquewhite;
+}
+
+a {
+    text-decoration: none;
+}
