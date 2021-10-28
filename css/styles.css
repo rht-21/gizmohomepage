@@ -47,7 +47,7 @@ body {
 
 .copyright {
     color: antiquewhite;
-    text-align: right;
+    text-align: center;
     margin: 10px;
     opacity: 70%;
     word-spacing: 2px;
@@ -90,4 +90,10 @@ h3 {
 
 a {
     text-decoration: none;
+}
+
+.donation-title {
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Ubuntu', sans-serif;
 }
